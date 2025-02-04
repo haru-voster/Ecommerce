@@ -3,7 +3,7 @@
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/adminhomepage.png?raw=true)
+![dashboard snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/adminhome.jpeg?raw=true)
 ### Customer Homepage
 ![homepage snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/homepage.jpeg?raw=true)
 ### Cart
