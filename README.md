@@ -7,7 +7,7 @@
 ### Customer Homepage
 ![homepage snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/homepage.jpeg?raw=true)
 ### Cart
-![cart snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/cart.JPEG?raw=true)
+![cart snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/cart.jpeg?raw=true)
 ### Track Orders
 ![orders snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/orderpage.jpeg?raw=true)
 ---
