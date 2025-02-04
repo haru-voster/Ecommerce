@@ -11,7 +11,7 @@
 ### Track Orders
 ![orders snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/orderpage.jpeg?raw=true)
 ---
-## FUNCTIONS
+### FUNCTIONS
 ## Customer
 - Customer can view/search products without login.
 - Customer can also add/remove product to cart without login (if customer try to add same product in cart. It will add only one)
