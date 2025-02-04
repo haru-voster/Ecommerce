@@ -3,13 +3,13 @@
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/haru-voster/Ecommerce/blob/master/static/screenshots/adminhomepage.png?raw=true)
+![dashboard snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/adminhomepage.png?raw=true)
 ### Customer Homepage
-![homepage snap](https://github.com/haru-voster/Ecommerce/blob/master/static/screenshots/homepage.JPEG?raw=true)
+![homepage snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/homepage.JPEG?raw=true)
 ### Cart
-![cart snap](https://github.com/haru-voster/Ecommerce/blob/master/static/screenshots/cart.png?raw=true)
+![cart snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/cart.png?raw=true)
 ### Track Orders
-![orders snap](https://github.com/haru-voster/Ecommerce/blob/master/static/screenshots/orderpage.JPEG?raw=true)
+![orders snap](https://github.com/haru-voster/Ecommerce/blob/main/static/screenshots/orderpage.JPEG?raw=true)
 ---
 ## FUNCTIONS
 ## Customer
